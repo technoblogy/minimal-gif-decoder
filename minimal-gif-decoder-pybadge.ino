@@ -1433,6 +1433,13 @@ void setup() {
 }
 
 void loop () {
+  ShowGif(cards2_gif);
+  delay(5000);
+  ShowGif(cards8_gif);
+  delay(5000);
   ShowGif(flags32_gif);
+  delay(5000);
+  ShowGif(logo256_gif);
+  delay(5000);
   for(;;);
 }

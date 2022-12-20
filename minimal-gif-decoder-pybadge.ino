@@ -1,8 +1,10 @@
-/* Minimal GIF Decoder PyGamer/PyBadge - see http://www.technoblogy.com/show?45YI
+/* Minimal GIF Decoder PyGamer/PyBadge Version - see http://www.technoblogy.com/show?45YI
 
    David Johnson-Davies - www.technoblogy.com - 15th December 2022
 
-   Licensed under the MIT license: https://opensource.org/licenses/MIT
+   CC BY 4.0
+   Licensed under a Creative Commons Attribution 4.0 International license: 
+   http://creativecommons.org/licenses/by/4.0/
 */
 
 #include <SPI.h>
